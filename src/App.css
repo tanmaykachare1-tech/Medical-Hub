@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #e6f7ff;
+}
+
+/* Common container */
+.container {
+  width: 300px;
+  margin: 80px auto;
+  padding: 20px;
+  background: white;
+  border: 2px solid #00aaff;
+  border-radius: 10px;
+  text-align: center;
+}
+
+/* Headings */
+h1 {
+  color: #0077b6;
+}
+
+/* Input fields */
+input {
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #00aaff;
+  border-radius: 5px;
+}
+
+/* Buttons */
+button {
+  background-color: #00aaff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0077b6;
+}
+
+/* List */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #f0fbff;
+  margin: 5px;
+  padding: 8px;
+  border: 1px solid #00aaff;
+  border-radius: 5px;
+}
